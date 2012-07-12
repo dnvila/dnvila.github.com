@@ -7,7 +7,7 @@ form label{
 }
 
 #logo{
-	/*background-image :url(images/logo.png);*/
+	background-image :url(../images/logo.png);
 	background-position:center;
 	background-repeat:no-repeat;
 }
@@ -31,6 +31,8 @@ form label{
 #getting div{
 	margin:0 auto;
 	padding-top:17px;
+	width:200px;
+	text-align: center;
 }
 
 
@@ -87,6 +89,7 @@ a{text-decoration:none;}
 	margin-top:9px;
 	color:#ffffff;
 	font : 16px arial,helvetica,clean,sans-serif;
+	padding-left: 20%
 	
 }
 
@@ -127,6 +130,7 @@ a{text-decoration:none;}
     height: 200px;
     width: 300px;
 }
+
 
 /*#image0{
   background-image : url(images/item5.png);
